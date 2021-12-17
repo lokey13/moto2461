@@ -1,0 +1,54 @@
+body {
+   background-color:black;
+   
+}
+
+a.button {
+    border: 1px solid rgb(255 106 0); 
+    color: rgb(255 255 255);
+    padding: 1px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 17px;
+    transition-property:background-color;
+    transition-duration:1s;
+    background-color: black;
+}
+a.button:hover{
+    border: 1px solid black;
+    background-color: whitesmoke;
+    color:black;
+    padding: 1px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 17px
+}
+*.text {
+    margin: 21px;
+    border: 10px;
+    font-weight: 100;
+    font-size: 20px;
+    color:white  
+}
+a.text{
+    text-align:center
+
+}
+
+*.zag {
+    text-align: center;
+        color:white;
+}
+
+*.img {
+    width: 600px;
+    height: 469px;
+    align-content: center;
+    justify-content: center;
+    align-self: center;
+    display: flex;
+    margin: 5px 100px 5px 300px 
+
+}
+
+
